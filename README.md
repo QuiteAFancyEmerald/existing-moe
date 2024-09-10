@@ -2,7 +2,7 @@
 The one and only legendary anime discord bot with over 90 but two commands! This project was mostly a joke project I made for the Titanium Network community but I still maintain it. The source code is beyond cursed.
 
 ### Setup:
-Paste your discord token inside `.env.example` and remove the `.example` extension then run the commands below.
+Paste your discord bot token inside `.env.example` and remove the `.example` extension then run the commands below.
 
 
 ```

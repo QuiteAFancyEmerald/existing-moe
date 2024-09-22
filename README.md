@@ -33,4 +33,4 @@ Configuration is made easy via `config.json`:
 ### Contributing:
 Feel free to submit pull requests or open issues
 
-<img src="https://cdn.discordapp.com/attachments/1040961463151509548/1070149746586554459/existingmoeinfographic.png?ex=66df9d1e&is=66de4b9e&hm=a316391e0b2f19c528f2724250c2217858c373e6d5a2dc4f0690ccacda7eafb1&"></img>
+<img src="https://raw.githubusercontent.com/QuiteAFancyEmerald/existing-moe/refs/heads/main/assets/img/existingmoeinfographic.png"></img>
